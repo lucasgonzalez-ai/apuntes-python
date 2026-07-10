@@ -1,6 +1,6 @@
 # 🐍 Fundamentos de Python - Apuntes y Código
 
-Este repositorio funciona como mi guía de consulta rápida sobre Python. Contiene principalmente apuntes teóricos como comentarios en el codigo y ejercicios del curso de **Fundamentos de Python** de Platzi, dictado Sergie Code.
+Este repositorio funciona como mi guía de consulta rápida sobre Python. Contiene principalmente apuntes teóricos como comentarios en el código y ejercicios del curso de **Fundamentos de Python** de Platzi, dictado Sergie Code.
 
 El objetivo principal es documentar mi aprendizaje y construir una base de código sólida a la que pueda recurrir rápidamente en el Futuro. 
 
