@@ -6,7 +6,7 @@ El objetivo principal es documentar mi aprendizaje y construir una base de códi
 
 ## Estructura Destacada
 
-* 📁 **`listas-apuntes/`**: Esta es una de las carpetas más importantes del repositorio. Contiene apuntes específicos, imágenes de referencia (*cheat sheets*) y actividades resueltas sobre Listas y Estructuras de Datos. Al ser el pilar fundamental para la manipulación de información en Data Science, decidí centralizar y expandir este tema integrando conocimientos de otros cursos.
+* 📁 **`listas-apuntes/`**: Esta es una de las carpetas más importantes del repositorio. Contiene apuntes específicos, imágenes de referencia (*cheat sheets*) y actividades resueltas sobre Listas. Al ser el pilar fundamental para la manipulación de información en Data Science, decidí centralizar y expandir este tema integrando conocimientos de otros cursos.
 
 ## 🚀 Progreso del Curso
 
