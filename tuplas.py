@@ -37,6 +37,7 @@ for item in tupla:
     print(item)
 
 print("---------------")
+#TRUCO PARA MODIFICAR TUPLAS
 
 tuplaAModificar = ("Python", "Javascript", "Go")
 listaComodin = list(tuplaAModificar)
