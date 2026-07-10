@@ -26,9 +26,9 @@ for adjetivo in adjetivos:
 
 print("------------------------")
 
-#for i in range(10):
-    print(i)
-
+for i in range(10):
+    pass
+# para tener hecho el codigo hasta que sepamos que va y no tire error
 
 
 
