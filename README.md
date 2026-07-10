@@ -18,7 +18,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 - [x] Bucles e Iteraciones (`for`, `while`).
 - [x] Estructuras de Datos Fundamentales (Listas y sus métodos).
 - [x] Tuplas, Conjuntos y Diccionarios.
-- [ ] *Temas que faltan: Funciones, Manejo de errores y el TP final*
+- [ ] *Funciones, Manejo de errores y el TP final*
+
 
 
 **Lucas Gonzalez** *Construyendo las bases de programación para Data Science e Inteligencia Artificial.*
