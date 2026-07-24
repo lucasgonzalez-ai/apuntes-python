@@ -1,10 +1,10 @@
 # Las variables permiten almacenar datos, y las f-strings ayudan a presentar o formatear esos datos de manera legible o conveniente 
 
-nombre = "Vicente"
+name = "Vicente"
 edad = 32
 visual = "Looker Studio"
 
-print(f"Mi amigo {nombre} tiene {edad} anios y utiliza {visual} para visualizar Datos")
+print(f"Mi amigo {name} tiene {edad} anios y utiliza {visual} para visualizar Datos")
 
 databases = "My SQL"
 database2 = "PostgreSQL"
@@ -29,3 +29,20 @@ print(f"{c} grados centigrados equivale a {f:.0f} grados farenheit")
 
 print("--- Con --- decimales ---")
 print(f"{c} grados centigrados equivale a {f:.3f} grados farenheit")
+
+print("==== == ==== ==")
+
+# Pedir texto al usuario con INPUT
+nombre = input("¿Cómo te llamas? ")
+print(f"¡Hola, {nombre}! Bienvenido a los Apuntes")
+
+# Pedir un número (¡hay que convertirlo!)
+edad_texto = input("¿Cuántos años tienes? ")
+edad = int(edad_texto)  # Convertir texto → número entero
+print(f"El año que viene tendrás {edad + 1} años")
+
+# Versión compacta: convertir directamente
+peso = float(input("¿Cuánto pesas en kg? "))
+altura = float(input("¿Cuánto mides en metros? "))
+imc = peso / (altura ** 2)
+print(f"Tu IMC es: {imc:.1f}")  # :.1f muestra 1 decimal

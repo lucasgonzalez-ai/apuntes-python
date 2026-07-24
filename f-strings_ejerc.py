@@ -3,7 +3,7 @@
 # Puedes copiar cada ejercicio en cada celda de tu notebook o bien
 # Descargar este archivo y reemplazar las X por lo que debe ser
 
-
+XXX = "Variable a cambiar"
 #E1: Guarda la variable en una cadena y con 4 decimales sin redondear
 # el resultado debe ser '3.1416'
 pi = 3.141592653589793
@@ -93,6 +93,15 @@ resumen = f"El total de {XXX} {XXX} y {XXX} {XXX} es ${total:XXX}."
 print(resumen)  # Output: El total de 3 manzanas y 5 plátanos es $13.50.
 
 
+#Ejercicio con INPUT
+# Calculadora de propinas para grupos
+# Pide los datos y calcula cuánto paga cada persona
 
-
+total_cuenta = float(input("Total de la cuenta ($): "))
+# Pide el porcentaje de propina...
+# Pide el número de personas...
+# Calcula la propina...
+# Calcula el total con propina...
+# Calcula cuánto paga cada persona...
+# Muestra el resultado...
 
