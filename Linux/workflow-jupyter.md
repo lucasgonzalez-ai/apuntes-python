@@ -30,7 +30,7 @@ Este workflow se divide en tres etapas principales:
 
 ## 🛠️ Setup Inicial y Dependencias
 
-Primero, crea la carpeta del proyecto y su entorno virtual aislado.
+Primero, crea la carpeta del proyecto y su entorno virtual aislado desde la Terminal.
 
 ```bash
 cd projects
@@ -38,15 +38,20 @@ cd projects
 mkdir analisis_panaderia
 
 cd analisis_panaderia
+```
 
+```bash
 python3 -m venv entorno_pana
 ```
+
 
 Activa el entorno virtual e instala las dependencias necesarias. Es importante instalar también `ipykernel`, ya que permitirá registrar el entorno como un Kernel de Jupyter.
 
 ```bash
 source entorno_pana/bin/activate
+```
 
+```bash
 pip install ipykernel pandas numpy matplotlib seaborn scikit-learn
 ```
 
