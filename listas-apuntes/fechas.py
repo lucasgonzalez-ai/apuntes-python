@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 ## E1
 ## Sin usar paquetes instalados, crea una nueva lista
@@ -40,15 +35,6 @@ print(fechas_formateadas)
 
 
 # your code here
-
-
-# In[ ]:
-
-
-
-
-
-# In[4]:
 
 
 ## E2
