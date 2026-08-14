@@ -1,12 +1,12 @@
 # 🐍 Fundamentos de Python - Apuntes y Código
 
-Este repositorio funciona como mi guía de consulta rápida sobre Python. Contiene principalmente apuntes teóricos como comentarios en el código y ejercicios del curso de **Fundamentos de Python** de Platzi, dictado Sergie Code.
+Este repositorio funciona como mi guía de consulta rápida sobre Python. Contiene principalmente apuntes teóricos como comentarios en el código y ejercicios de diferentes cursos. También material adicional que iré cargando como libros.
 
 El objetivo principal es documentar mi aprendizaje y construir una base de código sólida a la que pueda recurrir rápidamente en el Futuro. 
 
 ## Estructura Destacada
 
-* 📁 **`listas-apuntes/`**: Esta es una de las carpetas más importantes del repositorio. Contiene apuntes específicos, imágenes de referencia (*cheat sheets*) y actividades resueltas sobre Listas. Al ser el pilar fundamental para la manipulación de información en Data Science, decidí centralizar y expandir este tema integrando conocimientos de otros cursos.
+* 📁 **[`listas-apuntes/`](https://automatetheboringstuff.com/3e/chapter6.html)**: Esta es una de las carpetas más importantes del repositorio. Contiene apuntes específicos, imágenes de referencia (*cheat sheets*) y actividades resueltas sobre Listas. Al ser el pilar fundamental para la manipulación de información en Data Science, decidí centralizar y expandir este tema integrando diversos recursos.
 
 ## 🚀 Progreso del Curso
 
