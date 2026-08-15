@@ -220,3 +220,5 @@ jupyter notebook
       ▼
 El Kernel correcto se carga automáticamente
 ```
+
+[*Material Adicional*](https://laboratoriolinux.es/index.php/-noticias-mundo-linux-/software/40224-como-crear-un-entorno-de-desarrollo-de-inteligencia-artificial-en-linux-con-python-jupyter-y-modelos-de-codigo-abierto.html)

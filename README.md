@@ -19,7 +19,7 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 - [x] Estructuras de Datos Fundamentales (Listas y sus métodos).
 - [x] Tuplas, Conjuntos y Diccionarios.
 - [x] F-Strings & Input
-- [ ] *Funciones, Manejo de errores y el TP final*
+- [ ] *Manejo de errores y el Ejercicio final*
 
 
 
