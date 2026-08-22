@@ -23,4 +23,4 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 
 
-**Lucas Gonzalez** *Construyendo las bases de programación para Data Science e Inteligencia Artificial.*
+**Lucas Gonzalez** *Construyendo las bases de programación para [Data Science](https://altamarmx.github.io/explorador/) e Inteligencia Artificial.*
