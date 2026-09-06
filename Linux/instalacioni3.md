@@ -17,7 +17,7 @@ Reemplazar los archivos `config` tanto de i3 como de i3blocks, por los que tengo
 
 Refrescar configuraciones.
 
-## Instalar picom (para habilitar transparencias y sombras) y Feh (para gestionar el fondo de pantalla):
+## Instalar Feh (para gestionar el fondo de pantalla):
 
 ```bash
 sudo apt install feh -y
@@ -48,6 +48,19 @@ exec_always --no-startup-id ~/.fehbg
 | `SUPER + 1/2/3` | Abrir/Moverse a espacios de trabajo |
 
 
+## Documentacion
 
-gaps 5 y 0.5 abajo
+**(https://vivien.github.io/i3blocks)**
+
+***(https://github.com/vivien/i3blocks-contrib)**
+
+gaps 5 y 1 abajo
+
+i3
+├── dmenu       → lanzar comandos
+├── dunst       → notificaciones
+├── i3status    → información del sistema
+├── i3bar       → barra
+├── feh         → wallpaper
+└── Ulauncher   → lanzador alternativo
 

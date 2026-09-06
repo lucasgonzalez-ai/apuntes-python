@@ -19,8 +19,14 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 - [x] Estructuras de Datos Fundamentales (Listas y sus métodos).
 - [x] Tuplas, Conjuntos y Diccionarios.
 - [x] F-Strings & Input
-- [ ] *Manejo de errores y el Ejercicio final*
+- [ ] *Ejercicio final Cafetera*
+- [ ] *Agregar Libros*
 
+## Anexos
+
+**[Tutorial interactivo Python](https://www.learnpython.org/)**
+
+**[Pythonlingo en español](https://pythonlingo.com/)**
 
 
 **Lucas Gonzalez** *Construyendo las bases de programación para [Data Science](https://altamarmx.github.io/explorador/) e Inteligencia Artificial.*
