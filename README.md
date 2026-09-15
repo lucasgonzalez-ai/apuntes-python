@@ -20,7 +20,7 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 - [x] Tuplas, Conjuntos y Diccionarios.
 - [x] F-Strings & Input
 - [ ] *Ejercicio final Cafetera*
-- [ ] *Agregar Libros*
+- [ ] *Agregar Repos y Libros*
 
 ## Anexos
 
@@ -28,5 +28,14 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Pythonlingo en español](https://pythonlingo.com/)**
 
+**[CS50x PYTHON espanol youtube 2026](https://www.youtube.com/watch?v=N3zVFYQu3bU)**
+
+https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#writing-pyproject-toml
+
+## Repositorios
+
+**[El famoso 30 days of Python en espanol](https://github.com/Asabeneh/30-Days-Of-Python/tree/master/Spanish)**
+
+**[Muchos recursos para Ciencia de Datos](https://github.com/academic/awesome-datascience)**
 
 **Lucas Gonzalez** *Construyendo las bases de programación para [Data Science](https://altamarmx.github.io/explorador/) e Inteligencia Artificial.*

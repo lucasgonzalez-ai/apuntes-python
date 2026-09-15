@@ -1,3 +1,5 @@
+https://requests.readthedocs.io/en/latest/
+
 import requests
 
 # 1. Apuntamos al endpoint específico de artistas
