@@ -35,20 +35,20 @@ Primero, crea la carpeta del proyecto y su entorno virtual aislado desde la Term
 ```bash
 cd projects
 
-mkdir analisis_panaderia
+mkdir labs
 
-cd analisis_panaderia
+cd labs
 ```
 
 ```bash
-python3 -m venv entorno_pana
+python3 -m venv env_labs
 ```
 
 
 Activa el entorno virtual e instala las dependencias necesarias. Es importante instalar también `ipykernel`, ya que permitirá registrar el entorno como un Kernel de Jupyter.
 
 ```bash
-source entorno_pana/bin/activate
+source env_labs/bin/activate
 ```
 
 ```bash
@@ -62,7 +62,7 @@ pip install ipykernel pandas numpy matplotlib seaborn scikit-learn
 Con el entorno virtual aún activo, ejecuta el siguiente comando para registrar el Kernel en Jupyter.
 
 ```bash
-python -m ipykernel install --user --name=entorno_pana --display-name="Python (analisis pana)"
+python -m ipykernel install --user --name=env_labs --display-name="Python (env_labs)"
 ```
 
 ### ¿Qué hace este comando?
@@ -85,7 +85,7 @@ jupyter notebook
 Luego:
 
 1. Haz clic en **New**.
-2. Selecciona **Python (analisis pana)**.
+2. Selecciona **Python (env_labs)**.
 3. Guarda el archivo `.ipynb` dentro de la carpeta del proyecto.
 
 A partir de ese momento, todas las librerías instaladas en el entorno virtual estarán disponibles únicamente para ese proyecto.
@@ -117,7 +117,7 @@ Si únicamente vas a trabajar desde Jupyter Notebook, **ya no necesitas volver a
 Simplemente navega hasta el proyecto.
 
 ```bash
-cd ~/projects/analisis_panaderia
+cd ~/projects/labs
 ```
 
 Inicia Jupyter.
@@ -145,7 +145,7 @@ Cada proyecto debe tener su propio entorno virtual y su propio Kernel registrado
 Por ejemplo, si olvidaste instalar `matplotlib`:
 
 ```bash
-source entorno_pana/bin/activate
+source nombre_entorno/bin/activate
 
 pip install matplotlib
 
@@ -160,7 +160,7 @@ Después de instalar la librería, el Kernel seguirá utilizando automáticament
 
 El explorador de archivos de Jupyter funciona en tiempo real.
 
-Puedes copiar o arrastrar archivos `.csv` directamente dentro de la carpeta `analisis_panaderia` utilizando el gestor de archivos de tu sistema operativo.
+Puedes copiar o arrastrar archivos `.csv` directamente dentro de la carpeta `labs` utilizando el gestor de archivos de tu sistema operativo.
 
 No importa si Jupyter Notebook ya está abierto; los archivos aparecerán automáticamente y podrán utilizarse inmediatamente con `pd.read_csv()`.
 
@@ -222,3 +222,21 @@ El Kernel correcto se carga automáticamente
 ```
 
 [*Material Adicional*](https://laboratoriolinux.es/index.php/-noticias-mundo-linux-/software/40224-como-crear-un-entorno-de-desarrollo-de-inteligencia-artificial-en-linux-con-python-jupyter-y-modelos-de-codigo-abierto.html)
+
+## Cambiar a Modo Oscuro
+
+Esto podiamos haber hecho antes de instalar librerias con el entorno virtual activo, o bien en otro momento pero activando el entorno virtual como en el paso Nuevas Instalaciones (si no activamos venv igualmente nos dara un error el comando de Temas).
+
+```bash
+pip install jupyterthemes
+
+jt -t chesterish
+```
+
+```bash
+jt -t chesterish -fs 14 -nfs 12 -T -N -kl
+```
+
+Lanzamos Jupyter Notebook luego vamos a Settings -> Theme -> Jupyterlab Dark.
+
+jt -r   para restaurar al tema original
