@@ -223,6 +223,8 @@ El Kernel correcto se carga automáticamente
 
 [*Material Adicional*](https://laboratoriolinux.es/index.php/-noticias-mundo-linux-/software/40224-como-crear-un-entorno-de-desarrollo-de-inteligencia-artificial-en-linux-con-python-jupyter-y-modelos-de-codigo-abierto.html)
 
+---
+
 ## Cambiar a Modo Oscuro
 
 Esto podiamos haber hecho antes de instalar librerias con el entorno virtual activo, o bien en otro momento pero activando el entorno virtual como en el paso Nuevas Instalaciones (si no activamos venv igualmente nos dara un error el comando de Temas).
