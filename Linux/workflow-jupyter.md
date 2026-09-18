@@ -52,7 +52,7 @@ source env_labs/bin/activate
 ```
 
 ```bash
-pip install ipykernel pandas numpy matplotlib seaborn scikit-learn
+pip install ipykernel pandas numpy matplotlib seaborn scikit-learn pyjanitor
 ```
 
 ---
@@ -153,6 +153,7 @@ jupyter notebook
 ```
 
 Después de instalar la librería, el Kernel seguirá utilizando automáticamente la nueva dependencia.
+Otra forma podria ser %pip install scipy sin necesidad de activar el entorno pero si seleccionando el kernel creado.
 
 ---
 
@@ -242,3 +243,15 @@ jt -t chesterish -fs 14 -nfs 12 -T -N -kl
 Lanzamos Jupyter Notebook luego vamos a Settings -> Theme -> Jupyterlab Dark.
 
 jt -r   para restaurar al tema original
+
+---
+
+## Algunos trucos
+
+https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+
+```bash
+%autosave 30
+```
+
+%matplotlib inline al principio de la celda para armar el grafico y para ejecutar comandos de bash en la celda se usa !ls
