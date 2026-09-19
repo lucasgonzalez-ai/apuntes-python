@@ -52,7 +52,7 @@ source env_labs/bin/activate
 ```
 
 ```bash
-pip install ipykernel pandas numpy matplotlib seaborn scikit-learn pyjanitor
+pip install ipykernel pandas numpy matplotlib seaborn scikit-learn pyjanitor fg-data-profiling --quiet
 ```
 
 ---

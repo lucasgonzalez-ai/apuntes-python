@@ -30,12 +30,15 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[CS50x PYTHON espanol youtube 2026](https://www.youtube.com/watch?v=N3zVFYQu3bU)**
 
-https://packaging.python.org/en/latest/guides/writing-pyproject-toml/#writing-pyproject-toml
+**[Python para Ciencia de Datos](https://joserzapata.github.io/courses/python-ciencia-datos/)**
+
 
 ## Repositorios
 
 **[El famoso 30 days of Python en espanol](https://github.com/Asabeneh/30-Days-Of-Python/tree/master/Spanish)**
 
 **[Muchos recursos para Ciencia de Datos](https://github.com/academic/awesome-datascience)**
+
+---
 
 **Lucas Gonzalez** *Construyendo las bases de programación para [Data Science](https://altamarmx.github.io/explorador/) e Inteligencia Artificial.*
