@@ -45,7 +45,7 @@ python3 -m venv env_labs
 ```
 
 
-Activa el entorno virtual e instala las dependencias necesarias. Es importante instalar también `ipykernel`, ya que permitirá registrar el entorno como un Kernel de Jupyter.
+Activa el entorno virtual e instala las dependencias necesarias. Es importante instalar `ipykernel` despues, ya que permitirá registrar el entorno como un Kernel de Jupyter.
 
 ```bash
 source env_labs/bin/activate
@@ -86,7 +86,7 @@ Luego:
 
 1. Haz clic en **New**.
 2. Selecciona **Python (env_labs)**.
-3. Guarda el archivo `.ipynb` dentro de la carpeta del proyecto.
+3. Ya nos abre un ipynb nuevo listo para trabajar.
 
 A partir de ese momento, todas las librerías instaladas en el entorno virtual estarán disponibles únicamente para ese proyecto.
 
@@ -112,7 +112,7 @@ deactivate
 
 Aquí es donde este workflow muestra su mayor ventaja.
 
-Si únicamente vas a trabajar desde Jupyter Notebook, **ya no necesitas volver a activar el entorno virtual**.
+Ya no necesitas instalar librerias pero si, **activa el entorno virtual para utilizar modo oscuro y configuraciones**.
 
 Simplemente navega hasta el proyecto.
 
@@ -120,7 +120,9 @@ Simplemente navega hasta el proyecto.
 cd ~/projects/labs
 ```
 
-Inicia Jupyter.
+```bash
+source env_labs/bin/activate
+```
 
 ```bash
 jupyter notebook
@@ -140,7 +142,7 @@ Cada proyecto debe tener su propio entorno virtual y su propio Kernel registrado
 
 ### ¿Cuándo es necesario activar nuevamente el entorno?
 
-Únicamente cuando necesites instalar una nueva librería en un proyecto existente.
+Para instalar una nueva librería en un proyecto existente, y para trabajar con nuestro tema oscuro y configuraciones.
 
 Por ejemplo, si olvidaste instalar `matplotlib`:
 
@@ -213,13 +215,16 @@ deactivate
 Día siguiente
       │
       ▼
-cd proyecto
+cd project/labs/
+      │
+      ▼
+source env_labs/bin/activate
       │
       ▼
 jupyter notebook
       │
       ▼
-El Kernel correcto se carga automáticamente
+El Kernel correcto se carga automáticamente con las librerias y Configuracion
 ```
 
 [*Material Adicional*](https://laboratoriolinux.es/index.php/-noticias-mundo-linux-/software/40224-como-crear-un-entorno-de-desarrollo-de-inteligencia-artificial-en-linux-con-python-jupyter-y-modelos-de-codigo-abierto.html)
