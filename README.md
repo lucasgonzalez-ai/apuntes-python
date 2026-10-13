@@ -32,6 +32,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Python para Ciencia de Datos](https://joserzapata.github.io/courses/python-ciencia-datos/)**
 
+**[Ejecuta codigo Python en tu navegador rapidamente](https://pythononline.net/)**
+---
 
 ## Repositorios
 
@@ -39,6 +41,7 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Muchos recursos para Ciencia de Datos](https://github.com/academic/awesome-datascience)**
 
+**[Ejercicios Pandas](https://github.com/guipsamora/pandas_exercises)**
 ---
 
 **Lucas Gonzalez** *Construyendo las bases de programación para [Data Science](https://altamarmx.github.io/explorador/) e Inteligencia Artificial.*
