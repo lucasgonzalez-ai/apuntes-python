@@ -32,6 +32,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Python para Ciencia de Datos](https://joserzapata.github.io/courses/python-ciencia-datos/)**
 
+**[LIBRO Think Python en espanol](https://libropython.es/)**
+
 **[Ejecuta codigo Python en tu navegador rapidamente](https://pythononline.net/)**
 ---
 
