@@ -30,6 +30,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[CS50x PYTHON espanol youtube 2026](https://www.youtube.com/watch?v=N3zVFYQu3bU)**
 
+**[Curso 12 Horas Python para Data Science](https://www.youtube.com/watch?v=Rgag-Clu5L4)**
+
 **[Python para Ciencia de Datos](https://joserzapata.github.io/courses/python-ciencia-datos/)**
 
 **[LIBRO Think Python en espanol](https://libropython.es/)**
