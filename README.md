@@ -47,7 +47,7 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 **[Ejercicios Pandas](https://github.com/guipsamora/pandas_exercises)**
 
 
-## Libros
+## 📚 Libros
 
 **[Think Python en español](https://libropython.es/)**
 
