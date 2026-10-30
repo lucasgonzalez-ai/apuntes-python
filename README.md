@@ -9,6 +9,7 @@ El objetivo principal es documentar mi aprendizaje y construir una base de códi
 * 📁 **[`listas-apuntes/`](https://automatetheboringstuff.com/3e/chapter6.html)**: Esta es una de las carpetas más importantes del repositorio. Contiene apuntes específicos, imágenes de referencia (*cheat sheets*) y actividades resueltas sobre Listas. Al ser el pilar fundamental para la manipulación de información en Data Science, decidí centralizar y expandir este tema integrando diversos recursos.
 
 <br>
+
 ## 🚀 Progreso del Curso
 
 Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Fundamentales**.
