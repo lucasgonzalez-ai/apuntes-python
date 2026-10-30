@@ -41,11 +41,15 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 ## Repositorios
 
-**[El famoso 30 days of Python en espanol](https://github.com/Asabeneh/30-Days-Of-Python/tree/master/Spanish)**
+**[El famoso 30 days of Python en español](https://github.com/Asabeneh/30-Days-Of-Python/tree/master/Spanish)**
 
 **[Muchos recursos para Ciencia de Datos](https://github.com/academic/awesome-datascience)**
 
 **[Ejercicios Pandas](https://github.com/guipsamora/pandas_exercises)**
+
+**[Curso de Data Engineer en español](https://github.com/elingenierodedatos/curso-python-basico)**
+- [Lista de Reproduccion Youtube](https://www.youtube.com/watch?v=9kyvmCohQxw&list=PLZ8HioPT2G3k)
+- [Presentaciones](https://drive.google.com/drive/folders/19aPe8Ya0xx4FG9uqNOr6ITV6ym_KvzM9) 
 
 
 ## 📚 Libros
