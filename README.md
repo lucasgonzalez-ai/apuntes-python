@@ -8,6 +8,7 @@ El objetivo principal es documentar mi aprendizaje y construir una base de códi
 
 * 📁 **[`listas-apuntes/`](https://automatetheboringstuff.com/3e/chapter6.html)**: Esta es una de las carpetas más importantes del repositorio. Contiene apuntes específicos, imágenes de referencia (*cheat sheets*) y actividades resueltas sobre Listas. Al ser el pilar fundamental para la manipulación de información en Data Science, decidí centralizar y expandir este tema integrando diversos recursos.
 
+<br>
 ## 🚀 Progreso del Curso
 
 Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Fundamentales**.
@@ -34,8 +35,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Python para Ciencia de Datos](https://joserzapata.github.io/courses/python-ciencia-datos/)**
 
-**[Ejecuta codigo Python en tu navegador rapidamente](https://pythononline.net/)**
----
+**[Ejecuta codigo Python en tu navegador](https://pythononline.net/)**
+
 
 ## Repositorios
 
@@ -44,15 +45,16 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 **[Muchos recursos para Ciencia de Datos](https://github.com/academic/awesome-datascience)**
 
 **[Ejercicios Pandas](https://github.com/guipsamora/pandas_exercises)**
----
+
 
 ## Libros
 
 **[Think Python en español](https://libropython.es/)**
 
 **[Probabilidad y Estadística](https://allendowney.github.io/ThinkStats/)**
-- Para descargar los cuadernos del libro, aquí está el repositorio (github.com/AllenDowney/ThinkStats)
+- Para descargar los cuadernos del libro, aquí está el repositorio **[ThinkStats](github.com/AllenDowney/ThinkStats)**
 
 **[Análisis de Datos](https://wesmckinney.com/book/)**
 
+<br>
 **Lucas Gonzalez** *Construyendo las bases de programación para [Data Science](https://altamarmx.github.io/explorador/) e Inteligencia Artificial.*
