@@ -52,9 +52,10 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 **[Think Python en español](https://libropython.es/)**
 
 **[Probabilidad y Estadística](https://allendowney.github.io/ThinkStats/)**
-- Para descargar los cuadernos del libro, aquí está el repositorio **[ThinkStats](github.com/AllenDowney/ThinkStats)**
+- Para descargar los cuadernos del libro, aquí está el repositorio [ThinkStats](https://github.com/AllenDowney/ThinkStats)
 
 **[Análisis de Datos](https://wesmckinney.com/book/)**
 
 <br>
+
 **Lucas Gonzalez** *Construyendo las bases de programación para [Data Science](https://altamarmx.github.io/explorador/) e Inteligencia Artificial.*
