@@ -54,6 +54,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 ## 📚 Libros
 
+**[Introducing Python](https://github.com/harshmeet-1029/python-books/blob/main/Introducing%20Python%20Modern%20Computing%20in%20Simple%20Packages%20by%20Bill%20Lubanovic.pdf)**
+
 **[Think Python en español](https://libropython.es/)**
 
 **[Probabilidad y Estadística](https://allendowney.github.io/ThinkStats/)**
