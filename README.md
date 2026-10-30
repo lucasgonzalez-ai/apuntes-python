@@ -34,8 +34,6 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Python para Ciencia de Datos](https://joserzapata.github.io/courses/python-ciencia-datos/)**
 
-**[LIBRO Think Python en espanol](https://libropython.es/)**
-
 **[Ejecuta codigo Python en tu navegador rapidamente](https://pythononline.net/)**
 ---
 
@@ -47,5 +45,13 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Ejercicios Pandas](https://github.com/guipsamora/pandas_exercises)**
 ---
+
+## Libros
+
+**[Think Python en español](https://libropython.es/)**
+
+**[Probabilidad y Estadística](https://allendowney.github.io/ThinkStats/)**
+
+**[Análisis de Datos](https://wesmckinney.com/book/)**
 
 **Lucas Gonzalez** *Construyendo las bases de programación para [Data Science](https://altamarmx.github.io/explorador/) e Inteligencia Artificial.*
