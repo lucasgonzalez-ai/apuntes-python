@@ -64,7 +64,7 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[EducacionIT](https://www.educacionit.com/)**
 
-**[Ciclo de Complementación Curricular CCC Licenciatura Online]
+**Ciclo de Complementación Curricular CCC Licenciatura Online**
 - [Universidad Juan Agustín de Maza (Mendoza)](https://www.umaza.edu.ar/landings/ciencias-de-datos-e-inteligencia-artificial) 
 - [Universidad del Gran Rosario (Santa Fe)](https://ugr.edu.ar/carreras/ciclo-de-licenciatura-en-ciencia-de-datos/)
 
