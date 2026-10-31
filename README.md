@@ -40,6 +40,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Herramientas, mini lecciones y trucos](https://calmcode.io/)**
 
+**[Cursos de Kaggle](https://www.kaggle.com/learn)**
+
 
 ## Repositorios
 
@@ -54,7 +56,7 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 - [Presentaciones](https://drive.google.com/drive/folders/19aPe8Ya0xx4FG9uqNOr6ITV6ym_KvzM9) 
 
 
-# 🇦🇷 Institutos (Arancelado) 
+## 🇦🇷 Institutos (Arancelado) 
 
 **[Humai](https://humai.lat/)**
 
