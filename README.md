@@ -36,7 +36,9 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Python para Ciencia de Datos](https://joserzapata.github.io/courses/python-ciencia-datos/)**
 
-**[Ejecuta codigo Python en tu navegador](https://pythononline.net/)**
+**[Ejecuta codigo en tu navegador](https://pythononline.net/)**
+
+**[Herramientas, mini lecciones y trucos](https://calmcode.io/)**
 
 
 ## Repositorios
@@ -50,6 +52,15 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 **[Curso de Data Engineer en español](https://github.com/elingenierodedatos/curso-python-basico)**
 - [Lista de Reproduccion Youtube](https://www.youtube.com/watch?v=9kyvmCohQxw&list=PLZ8HioPT2G3k)
 - [Presentaciones](https://drive.google.com/drive/folders/19aPe8Ya0xx4FG9uqNOr6ITV6ym_KvzM9) 
+
+
+# 🇦🇷 Institutos (Arancelado) 
+
+**[Humai](https://humai.lat/)**
+
+**[Instituto Data Science](https://institutodatascience.org/)**
+
+**[EducacionIT](https://www.educacionit.com/)**
 
 
 ## 📚 Libros
