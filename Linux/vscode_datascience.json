@@ -1,0 +1,13 @@
+{
+   "workbench.colorTheme": "Visual Studio Dark",
+   "workbench.iconTheme": "symbols",
+   "workbench.startupEditor": "none",
+   "workbench.editor.empty.hint": "hidden",
+   "files.autoSave": "afterDelay",
+   "terminal.integrated.initialHint": false,
+   "editor.fontSize": 14,
+   "editor.tabSize": 2,
+   "editor.wordWrap": "on",
+   "editor.minimap.enabled": false,
+   "terminal.integrated.fontSize": 13
+}
