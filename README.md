@@ -57,6 +57,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Python: De usuario a explorador de datos](https://github.com/altamarmx/explorador)**
 
+**[Matematica](https://github.com/joanby/matematicas-ml)**
+
 
 ## 🇦🇷 Institutos (Arancelado) 
 
