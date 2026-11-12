@@ -55,6 +55,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 - [Lista de Reproduccion Youtube](https://www.youtube.com/watch?v=9kyvmCohQxw&list=PLZ8HioPT2G3k)
 - [Presentaciones](https://drive.google.com/drive/folders/19aPe8Ya0xx4FG9uqNOr6ITV6ym_KvzM9) 
 
+**[Python: De usuario a explorador de datos](https://github.com/altamarmx/explorador)**
+
 
 ## 🇦🇷 Institutos (Arancelado) 
 
