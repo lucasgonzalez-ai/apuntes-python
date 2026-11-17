@@ -32,6 +32,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[CS50x PYTHON espanol youtube 2026](https://www.youtube.com/watch?v=N3zVFYQu3bU)**
 
+**[Conceptos esenciales de ML con animaciones](https://www.youtube.com/watch?v=PcbuKRNtCUc)**
+
 **[Curso 12 Horas Python para Data Science](https://www.youtube.com/watch?v=Rgag-Clu5L4)**
 
 **[Python para Ciencia de Datos](https://joserzapata.github.io/courses/python-ciencia-datos/)**
@@ -58,6 +60,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 **[Python: De usuario a explorador de datos](https://github.com/altamarmx/explorador)**
 
 **[Matematica](https://github.com/joanby/matematicas-ml)**
+
+**[Curso de IA UTN 2026](https://github.com/jorgeroa/ia-utn-frsf)**
 
 
 ## 🇦🇷 Institutos (Arancelado) 
