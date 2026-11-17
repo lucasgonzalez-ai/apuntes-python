@@ -47,6 +47,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 ## Repositorios
 
+**[Inspiracion Perfiles de Github](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates**)
+
 **[El famoso 30 days of Python en español](https://github.com/Asabeneh/30-Days-Of-Python/tree/master/Spanish)**
 
 **[Muchos recursos para Ciencia de Datos](https://github.com/academic/awesome-datascience)**
