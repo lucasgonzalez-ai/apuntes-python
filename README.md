@@ -24,6 +24,8 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 - [ ] *Ejercicio final Cafetera*
 - [ ] *Agregar Repos y Libros*
 
+<br>
+
 ## Anexos
 
 **[Tutorial interactivo Python](https://www.learnpython.org/)**
@@ -44,6 +46,7 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Cursos de Kaggle](https://www.kaggle.com/learn)**
 
+<br>
 
 ## Repositorios
 
@@ -65,6 +68,7 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 
 **[Curso de IA UTN 2026](https://github.com/jorgeroa/ia-utn-frsf)**
 
+<br>
 
 ## 🇦🇷 Institutos (Arancelado) 
 
@@ -80,12 +84,15 @@ Actualmente el repositorio cubre hasta la **Clase 25: Estructuras de Datos Funda
 - [Universidad Juan Agustín de Maza (Mendoza)](https://www.umaza.edu.ar/landings/ciencias-de-datos-e-inteligencia-artificial) 
 - [Universidad del Gran Rosario (Santa Fe)](https://ugr.edu.ar/carreras/ciclo-de-licenciatura-en-ciencia-de-datos/)
 
+<br>
 
 ## 📚 Libros
 
 **[Introducing Python](https://github.com/harshmeet-1029/python-books/blob/main/Introducing%20Python%20Modern%20Computing%20in%20Simple%20Packages%20by%20Bill%20Lubanovic.pdf)**
 
 **[Think Python en español](https://libropython.es/)**
+
+**[Introduccion a Python por Rice University](https://openstax.org/books/introduction-python-programming/pages/1-introduction)**
 
 **[Probabilidad y Estadística](https://allendowney.github.io/ThinkStats/)**
 - Para descargar los cuadernos del libro, aquí está el repositorio [ThinkStats](https://github.com/AllenDowney/ThinkStats)
